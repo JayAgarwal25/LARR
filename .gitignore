@@ -1,0 +1,47 @@
+# Data
+CEP_Data/
+data/
+
+# Results and outputs
+results/
+results_fast/
+
+# Generated figures and plots
+*.png
+*.jpg
+*.jpeg
+
+# Generated reports and timestamped output files
+ablation_report_*.csv
+sanity_check_*.csv
+*_20[0-9][0-9][0-9][0-9][0-9][0-9]_*.csv
+*_20[0-9][0-9][0-9][0-9][0-9][0-9]_*.png
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
